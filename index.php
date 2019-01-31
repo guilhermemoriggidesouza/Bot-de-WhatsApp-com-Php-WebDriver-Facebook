@@ -13,7 +13,7 @@
     <div class="container">
         <form method="post" action="definirCampanha">
             <div class="form-group">
-                <input type="text" class="form-control" name="nomeCampanha" placeholder="Digite o nome da campanha">
+                <input type="text" class="form-control" name="nomeCampanha" placeholder="Digite o nome da campanha sem espaços e sem caracteres diferenciais">
             </div>
             <div class="form-group text-center">
                 <input type="submit" value="Criar a campanha" class="btn btn-primary">
